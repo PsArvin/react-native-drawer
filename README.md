@@ -19,7 +19,7 @@ React native drawer, configurable to achieve material design style, slack style,
 - [Credits](#credits)
 
 ### Installation
-`npm install --save react-native-drawer`
+`npm install --save https://github.com/PsArvin/react-native-drawer`
 
 ### Usage
 ```javascript
